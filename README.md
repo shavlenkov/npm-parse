@@ -3,11 +3,11 @@
 [![shpp++](https://img.shields.io/badge/shpp%2B%2B-%F0%9F%92%96-00964b)](https://programming.org.ua/ua)
 
 This bot parse npm packeges and post them in [telegram channel](https://t.me/start_day_with_new_framework "telegram channel")
-every morning in the same time
+every day in the same time
 Our telegram channel made for programmists
 In our telegram you can find something interesting packages for you which can help 
 
-If you are looking for useful npms packages, 
+If you are looking for useful npm packages, 
 you must subscribe to the telegram channel
 
 > The main task of our channel it make programmist job easier!
