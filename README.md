@@ -29,4 +29,4 @@ The bot collects data from the [API NPM](https://npms.io/ "API NPM") and publish
 
 ##### The bot has a filter that looks for interesting packages for using special filter
 
->NPMs was built to empower the javascript community by providing a better and open sourced search for node modules.
+>NPM was built to empower the javascript community by providing a better and open sourced search for node modules.
