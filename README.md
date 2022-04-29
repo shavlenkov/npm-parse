@@ -1,4 +1,4 @@
-# NPM-parse 👨‍💻
+# npm-parse 👨‍💻
 
 [![shpp++](https://img.shields.io/badge/shpp%2B%2B-%F0%9F%92%96-00964b)](https://programming.org.ua/ua)
 
@@ -15,7 +15,7 @@ you must subscribe to the telegram channel
 
 
 ## How it works ❓
-The bot collects data from the [API NPM](https://npms.io/ "API NPM") and publish packages in channel 
+The bot collects data from the [API npm](https://npms.io/ "API npm") and publish packages in channel 
 
 
 ## Features 🥇
@@ -29,4 +29,4 @@ The bot collects data from the [API NPM](https://npms.io/ "API NPM") and publish
 
 ##### The bot has a filter that looks for interesting packages for using special filter
 
->NPM was built to empower the javascript community by providing a better and open sourced search for node modules.
+>npm was built to empower the javascript community by providing a better and open sourced search for node modules.
